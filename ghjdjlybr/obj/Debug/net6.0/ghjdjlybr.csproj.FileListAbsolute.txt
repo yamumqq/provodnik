@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\net6.0\ghjdjlybr.exe
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\net6.0\ghjdjlybr.deps.json
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\net6.0\ghjdjlybr.runtimeconfig.json
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\net6.0\ghjdjlybr.dll
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\bin\Debug\net6.0\ghjdjlybr.pdb
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.AssemblyInfo.cs
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.dll
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\refint\ghjdjlybr.dll
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.pdb
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ghjdjlybr.genruntimeconfig.cache
+C:\Users\admin\source\repos\ghjdjlybr\ghjdjlybr\obj\Debug\net6.0\ref\ghjdjlybr.dll
